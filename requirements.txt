@@ -1,0 +1,5 @@
+yfinance
+requests
+beautifulsoup4
+jupyter
+notebook==7.0.1
